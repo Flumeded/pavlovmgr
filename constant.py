@@ -24,3 +24,6 @@ class Messages:
     server_is_stopping = "Server is stopping..."
     server_has_stopped = "Server has been successfully stopped"
     server_incorrect_state = "Server state not ON or OFF"
+    enter_server_zone = "Please enter where instance is locate.\n(e.g fr-par-1, fr-par-2, nl-ams-1, pl-waw-1):\n"
+    enter_server_id = "Please enter server ID:\n"
+    enter_server_api = "Please enter Scaleway API key:\n"
