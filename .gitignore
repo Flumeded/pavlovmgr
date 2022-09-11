@@ -1,0 +1,8 @@
+/.idea/
+/bin
+/lib
+/venv
+test.py
+pyvenv.cfg
+lib64
+/temp
